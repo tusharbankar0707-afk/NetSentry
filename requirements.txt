@@ -1,0 +1,9 @@
+# NetSentry has no third-party dependencies.
+# It uses only the Python standard library:
+#   argparse, ipaddress, socket, sys, threading, queue, time, datetime
+#
+# Requires Python 3.7+
+#
+# This file is included for convenience / future extensions.
+# To install (no-op, but standard practice):
+#   pip install -r requirements.txt
