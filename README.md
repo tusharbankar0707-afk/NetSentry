@@ -25,7 +25,7 @@ NetSentry helps you find open ports and live hosts on networks you own or are au
 
 1. **Clone or download this repository:**
    ```bash
-   git clone https://github.com/yourusername/netsentry.git
+   git clone https://github.com/tusharbankar0707-afk/NetSentry.git
    cd netsentry
    ```
 
